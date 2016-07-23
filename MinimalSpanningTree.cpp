@@ -2,6 +2,7 @@
 //// Created by wshwbluebird on 16/7/22.
 ////
 ////最小生成树
+////并查集
 //#include <iostream>
 //using namespace std;
 //
